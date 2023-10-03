@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> Hello there! My name is Muhammad Izzuddin Bin Shabrin👋</h2>
+<h1 align="center">👋 Hi there! I'm Camily Tang Jia Lei 🐪.</h1>
 <!--
 **izzuddin125/izzuddin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
