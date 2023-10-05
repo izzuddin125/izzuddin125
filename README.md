@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=izzudin125&" alt="izzudin125" /></p>
 
-<p> <img align="center" heigth="250px" width="250px" src="realistic-cat.gif" alt="smurfcat" /></p>
+<p> <img align="right" heigth="250px" width="250px" src="realistic-cat.gif" alt="smurfcat" /></p>
 
 
 
