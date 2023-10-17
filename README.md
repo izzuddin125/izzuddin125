@@ -1,23 +1,34 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+
+
 
 ###
 
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="realistic-cat.gif"  />
+
+
+
+
 
 ###
 
+
+
+###
+
+
+
+
+
+
+###
 
 
 
@@ -45,10 +56,11 @@
 - 📫 How to reach me **izzuddin02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad izzuddin shabrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad izzuddin shabrin" height="30" width="40" /></a>
-<a href="https://instagram.com/izzddnshb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izzddnshb_" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://instagram.com/izzddnshb_" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://linkedin.com/in/muhammad izzuddin shabrin" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -81,15 +93,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
 </div>
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=izzuddin125&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=izzuddin125&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzudin125&show_icons=true&locale=en&layout=compact" alt="izzudin125" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzudin125&show_icons=true&locale=en" alt="izzudin125" /> </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=izzudin125&" alt="izzudin125" /></p>
 
 <p> <img align="center" heigth="250px" width="250px" src="realistic-cat.gif" alt="smurfcat" /></p>
+<p> <img align="right" heigth="250px" width="250px" src="realistic-cat.gif" alt="smurfcat" /></p>
 
 
 
