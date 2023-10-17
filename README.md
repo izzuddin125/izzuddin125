@@ -106,10 +106,16 @@
 
 
 
+<br>
+<br>
+
+<div align="center">
+  <img style="height: 250px; width: 250px; float: left;" src="realistic-cat.gif" alt="smurfcat" />
+  <img style="height: 250px; width: 250px; float: right;" src="dance-chibi.gif" alt="smurfcat" />
+</div>
 
 
-<p> <img align="center" heigth="250px" width="250px" src="realistic-cat.gif" alt="smurfcat" /></p>
-<p> <img align="right" heigth="250px" width="250px" src="realistic-cat.gif" alt="smurfcat" /></p>
+
 
 
 
